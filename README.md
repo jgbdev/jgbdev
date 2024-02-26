@@ -1,4 +1,4 @@
-Hi 👋 I am João Gabriel Reis
+Hello! 👋 I am João Gabriel Reis
 ==================================
 
 Analysis and Systems Development Student
