@@ -4,7 +4,7 @@ Hello, I am João Gabriel Reis 👋
 Analysis and Systems Development Student
 ----------------------------------------
 
-I'm 22 years old and since my childhood, I've been wanting to develop creative things at the computer (I didn't have any idea how to do it), but now my target is to work doing that. I'm studying Analysis and Systems Development at Fatec, a technology school in Brazil.
+I'm 22 years old and since my childhood, I've been wanting to develop creative things at the computer (I didn't have any idea how to do that), but now my target is to work doing it. I'm studying Analysis and Systems Development at Fatec, a technology school in Brazil.
 
 * 🌍  I'm based in Indaiatuba, SP - Brazil
 * ✉️  You can contact me at [jgabrielreis80@gmail.com](mailto:jgabrielreis80@gmail.com)
