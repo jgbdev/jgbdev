@@ -1,5 +1,5 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am João Gabriel Reis
-=========================================================================================================================================
+Hi 👋 My name is João Gabriel Reis
+==================================
 
 Analysis and Systems Development Student
 ----------------------------------------
@@ -11,7 +11,7 @@ I'm studying Analysis and Systems Development at Fatec.
 * 🧠  I'm learning JavaScript, NodeJS for BackEnd
 * ⚡  I'm working at @Kiwify in a administrative role but I want to work as a developer in a near future.
 
-### Skills
+### Studying at the moment
 
 
 <p align="left">
