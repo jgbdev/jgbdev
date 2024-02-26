@@ -9,7 +9,7 @@ I'm studying Analysis and Systems Development at Fatec.
 * 🌍  I'm based in Indaiatuba, SP - Brazil
 * ✉️  You can contact me at [jgabrielreis80@gmail.com](mailto:jgabrielreis80@gmail.com)
 * 🧠  I'm learning JavaScript, NodeJS for BackEnd
-* ⚡  I'm working at @Kiwify in a administrative role but I want to work as a developer in a near future.
+* ⚡  I'm working at @Kiwify in a administrative role but I'm studying for work as a developer in a near future.
 
 ### Studying at the moment
 
